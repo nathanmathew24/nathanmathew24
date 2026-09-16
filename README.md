@@ -1,10 +1,24 @@
-# Nathan Mathew
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=Nathan+Mathew;AI+Engineer;Agents+that+validate+their+own+output;Document+Extraction+%C2%B7+Multi-Agent+Systems" alt="Nathan Mathew — AI Engineer">
+
+<a href="https://www.linkedin.com/in/nathan-mathew-126273218/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:nxthxnmxthew7@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/nathanmathew24?tab=repositories"><img src="https://img.shields.io/badge/Projects-2F81F7?style=flat-square&logo=github&logoColor=white" alt="Projects"></a>
+
+</div>
 
 **AI Engineer focused on agents that check their own work.**
 
 I build systems that don't just call an LLM and return whatever comes back — they validate the output against a real specification, catch their own mistakes, and either fix them or say so. My invoice-extraction agent ([INTAKE-AGENT](https://github.com/nathanmathew24/INTAKE-AGENT)) is the clearest example: it retries against structured validation errors, and its README documents a failure mode it has — where the retry loop can "fix" a document by rewriting the wrong field — rather than hiding it. I'd rather ship something with a documented limitation than something that looks finished and isn't.
 
 I work mainly in Python, with FastAPI/Streamlit for interfaces, Pydantic for schema validation, and LLM APIs (OpenAI, Groq) for the parts that need language understanding rather than rules. I've also shipped full-stack TypeScript/React work (Next.js + Supabase, React + FastAPI).
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,ts,pytorch,opencv,git,github,vscode,tailwind&perline=11" alt="tech stack">
+
+</div>
 
 ---
 
@@ -54,6 +68,28 @@ A university capstone project (team of 6): a full ML pipeline — Random Forest 
 
 ### [Smart Surveillance System](https://github.com/nathanmathew24/SMART-SURVEILLANCE-CV)
 A real-time computer vision app combining five techniques — MOG2 background subtraction, YOLOv8 object detection, YOLOv8+ByteTrack tracking, MediaPipe face detection, and YOLOv8 instance segmentation — behind a FastAPI backend and Streamlit frontend. University group project.
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="assets/metrics.isocalendar.svg" width="100%" alt="isometric contribution calendar">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanmathew24/nathanmathew24/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanmathew24/nathanmathew24/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/nathanmathew24/nathanmathew24/output/snake.svg" width="100%" alt="contribution snake">
+</picture>
+
+<br><br>
+
+<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
+
+</div>
 
 ---
 
