@@ -85,10 +85,6 @@ A real-time computer vision app combining five techniques — MOG2 background su
   <img src="https://raw.githubusercontent.com/nathanmathew24/nathanmathew24/output/snake.svg" width="100%" alt="contribution snake">
 </picture>
 
-<br><br>
-
-<img src="assets/metrics.languages.svg" height="165" alt="most used languages">
-
 </div>
 
 ---
